@@ -36,7 +36,6 @@ public class JwtUtil {
     }
 
 	public String generateToken(String username, String role) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 }
